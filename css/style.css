@@ -13,7 +13,11 @@ h4{
     }
 
     .banner{
-        padding-top: 100px
+        padding-top: 120px
+    }
+
+    .div-table{
+        width: -webkit-fill-available;
     }
 
 }
