@@ -13,7 +13,11 @@ h4{
     }
 
     .banner{
-        padding-top: 120px
+        padding-top: 100px
+    }
+
+    video{
+        margin-top: 100px;
     }
 
     .div-table{
