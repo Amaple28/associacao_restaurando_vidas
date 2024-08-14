@@ -1,0 +1,19 @@
+
+html{
+    scroll-behavior: smooth;
+}
+
+h4{
+    font-size: 1.2rem;
+}
+
+@media (max-width: 768px){
+    h4{
+        font-size: 1rem;
+    }
+
+    .banner{
+        padding-top: 100px
+    }
+
+}
